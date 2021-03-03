@@ -4,7 +4,12 @@ using System.Text;
 
 namespace CSharp_Generics
 {
-    class Lists
+    public class Lists
     {
+        public Lists()
+        {
+
+        }
+
     }
 }
